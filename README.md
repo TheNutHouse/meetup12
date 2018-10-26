@@ -14,7 +14,7 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
 Twitter - https://twitter.com/vagmi
 
-LinkedIn - https://www.linkedin.com/in/tvvignesh
+LinkedIn - https://www.linkedin.com/in/vagmi/
 
 
 ## Agenda:
