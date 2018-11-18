@@ -21,6 +21,10 @@ LinkedIn - https://www.linkedin.com/in/vagmi/
 
 In this brief talk we'll talk about the client-go SDK and how we could control the kubernetes cluster through code.
 
+## Link to the recorded talk
+
+https://www.youtube.com/watch?v=Erll-pQZm3M
+
 ## Credits:
 
 1. Jennifer George, Vinitha Ramani and Shreya Viswanath - For helping us with all meetup related communications to all the people, opening up audience
